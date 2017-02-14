@@ -1,5 +1,6 @@
 body {
 	font-family: 'Droid Serif', serif;
+	color: #003399;
 }
 
 #wins {
@@ -17,4 +18,10 @@ body {
 #remaining {
 	line-height: 110px;
 	font-size: 20px;
+}
+/* jumbotron styling */
+.jumbotron {
+	background: url("../images/Show_Ribbons_2008_06070004_4.2x3.jpg");
+	color:  #ffff00;
+
 }
