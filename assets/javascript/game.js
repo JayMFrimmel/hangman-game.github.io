@@ -1,0 +1,2 @@
+//breed array: rough collie, standard poodle, staffordshire bull terrier, beagle, german shepherd, border collie, golden retriever, labrador retriever, plott hound, rat terrier, chihuahua, pug
+var wordList = ["rough collie", "standard poodle", "staffordshire bull terrier", "beagle", "german shepherd", "border collie", "golden retriever", "labrador retriever", "plott hound", "rat terrier", "chihuahua", "pug"];
